@@ -1,3 +1,6 @@
+fun fun4(){
+    println("5")
+}
 fun fun3(){
     println("4")
 }
@@ -12,4 +15,5 @@ fun main() {
     fun1()
     fun2()
     fun3()
+    fun4()
 }
