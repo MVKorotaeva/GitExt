@@ -1,3 +1,6 @@
+fun fun2(){
+    println("3")
+}
 fun fun1(){
     println("2")
 }
